@@ -164,4 +164,7 @@ main {
   bottom: 0;
 }
 
-    
+.carousel-inner, .carousel-item {
+  width: 750px !important;
+  margin: 0 auto;
+}
